@@ -64,6 +64,14 @@
               </li>
             </ul>
           </li>
+          <li class="nav-item">
+            <a href="./index3.html" class="nav-link">
+              <i class="far fa-circle nav-icon"></i>
+              <p>Dashboard v4</p>
+            </a>
+          </li>
+        </ul>
+      </li>
 
           {{-- there is somthing --}}
         

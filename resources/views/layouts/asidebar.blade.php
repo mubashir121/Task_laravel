@@ -65,20 +65,22 @@
             </ul>
           </li>
           <li class="nav-item">
-            <a href="{{ route('references.index.data') }}" class="nav-link">
+            <a href="./index3.html" class="nav-link">
+              <i class="far fa-circle nav-icon"></i>
+              <p>Dashboard v4</p>
+            </a>
+          </li>
+        </ul>
+      </li>
+
+          {{-- there is somthing --}}
+        
+
+          <li class="nav-item">
+            <a href="{{ url('references') }}" class="nav-link">
               <i class="nav-icon fas fa-th"></i>
               <p>
                 Objekt Table
-                <span class="right badge badge-danger">New</span>
-              </p>
-            </a>
-          </li>
-
-          <li class="nav-item">
-            <a href="{{ route('students.list') }}" class="nav-link">
-              <i class="nav-icon fas fa-th"></i>
-              <p>
-              Student Table
                 <span class="right badge badge-danger">New</span>
               </p>
             </a>
